@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "FirstProblem\Shape
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{ECFE44A1-0702-481E-9A1F-A723D485B365}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidRangeException", "InvalideRangeException\InvalidRangeException.csproj", "{F35149DB-3239-4BFF-80F9-15EB28E0D94A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ECFE44A1-0702-481E-9A1F-A723D485B365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECFE44A1-0702-481E-9A1F-A723D485B365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECFE44A1-0702-481E-9A1F-A723D485B365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35149DB-3239-4BFF-80F9-15EB28E0D94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35149DB-3239-4BFF-80F9-15EB28E0D94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35149DB-3239-4BFF-80F9-15EB28E0D94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35149DB-3239-4BFF-80F9-15EB28E0D94A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
