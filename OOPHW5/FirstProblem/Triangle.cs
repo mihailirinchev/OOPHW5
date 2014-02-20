@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Shape
 {
-	internal class Triangle:Shape
+	internal class Triangle : Shape
 	{
-		public Triangle(double width, double height) : base(width, height) 
+		public Triangle(double width, double height) : base(width, height)
 		{
 		}
 
